@@ -18,9 +18,10 @@ Berikut adalah fitur aplikasi ini:
 
 Berikut adalah demo dari aplikasi ini:
 
-![assets](assets/1.png) <br>
+![Foto](Foto/foto1.png) 
+<br>
 
-![assets](assets/2.png)
+![Foto](Foto/foto2.png)
 <br>
 ![assets](assets/3.png)
 <br>
