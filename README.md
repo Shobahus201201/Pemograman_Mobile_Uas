@@ -18,10 +18,10 @@ Berikut adalah fitur aplikasi ini:
 
 Berikut adalah demo dari aplikasi ini:
 
-![Foto](Foto/foto1.png) 
+![Foto](uas/Foto/foto1.png) 
 <br>
 
-![Foto](Foto/foto2.png)
+![Foto](uas/Foto/foto2.png)
 <br>
 ![assets](assets/3.png)
 <br>
