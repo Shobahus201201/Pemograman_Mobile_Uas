@@ -18,15 +18,13 @@ Berikut adalah fitur aplikasi ini:
 
 Berikut adalah demo dari aplikasi ini:
 
-![Foto](uas/Foto/foto1.png) 
-<br>
+<img width="959" alt="foto1" src="https://github.com/Shobahus201201/Pemograman_Mobile_Uas/assets/72907098/6d4665cb-4fcf-4cbc-8d49-ebf81f095a50">
 
-![Foto](uas/Foto/foto2.png)
-<br>
-![assets](assets/3.png)
-<br>
-![assets](assets/4.png)
-<br>
-![assets](assets/5.png)
-<br>
-![assets](assets/6.png)
+<img width="958" alt="foto2" src="https://github.com/Shobahus201201/Pemograman_Mobile_Uas/assets/72907098/29163982-67ba-46c4-b034-a3b10b36952b">
+a50">
+
+<img width="960" alt="foto3" src="https://github.com/Shobahus201201/Pemograman_Mobile_Uas/assets/72907098/8f19e9f1-8549-4245-b138-3f4235a4f081">
+
+<img width="960" alt="foto4" src="https://github.com/Shobahus201201/Pemograman_Mobile_Uas/assets/72907098/c4ae1805-13c0-43bd-a590-fe5912a01286">
+
+<img width="960" alt="foto5" src="https://github.com/Shobahus201201/Pemograman_Mobile_Uas/assets/72907098/4bfaf4a4-fa12-42fe-8f6a-325d239c6e2d">
